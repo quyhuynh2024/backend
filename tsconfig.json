@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "removeComments": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    // "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "allowUnreachableCode": false,
+    "strictPropertyInitialization": true,
+    "noImplicitOverride": true
+  }
+}
